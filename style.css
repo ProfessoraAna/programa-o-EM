@@ -1,0 +1,22 @@
+body {
+    background: goldenrod;
+}
+
+p {
+    text-align:center;
+
+}
+
+em {
+    font-size: 30px;
+}
+
+strong {
+    color: blue;
+}
+strong {
+    color: coral;
+}
+strong{
+    color: darkblue;
+}

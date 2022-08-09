@@ -1,0 +1,24 @@
+body{
+    background: aquamarine;
+}
+
+p{
+    text-align: center;
+}
+
+#mapa{
+  height: 200px
+}
+
+em{
+  font-size: 70px;
+}
+
+#rodovia{
+  height: 300px;
+}
+
+
+#rio{
+  height: 300px;
+}
